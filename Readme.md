@@ -1,34 +1,34 @@
-# Práctica de Motores de Videojuegos I - UCIC 🎮
+# Practica de Motores de Videojuegos I - UCIC ðŸŽ®
 
-## 🧑 Nombre del alumno/a:
-**Nombre(s):** [Escribe aquí tu nombre de pila]  
-**Iniciales:** [Escribe aquí tus iniciales]
+## ðŸ§‘ Nombre del alumno/a:
+**Nombre(s):** [Escribe aqui tu nombre de pila]  
+**Iniciales:** [Escribe aqui tus iniciales]
 
-## 🗂️ Práctica #
-**Título de la práctica:** [Ej. Movimiento del personaje]  
+## ðŸ—‚ï¸ Practica #
+**Ti­tulo de la practica:** [Ej. Movimiento del personaje]  
 **Fecha de entrega:** [dd/mm/aaaa]
 
-## �  Descripción
-[Explica brevemente en qué consiste la práctica, qué hiciste y qué aprendiste. Ejemplo: En esta práctica implementé el movimiento de un personaje 2D usando Rigidbody2D y controles de teclado en Unity.]
+## ðŸ§  Descripcion
+[Explica brevemente en quÃ© consiste la prÃ¡ctica, quÃ© hiciste y quÃ© aprendiste. Ejemplo: En esta prÃ¡ctica implementÃ© el movimiento de un personaje 2D usando Rigidbody2D y controles de teclado en Unity.]
 
-## 🎮 Instrucciones de uso
-[Describe cómo ejecutar el proyecto: versión de Unity, plataforma objetivo, controles, etc.]
+## ðŸŽ® Instrucciones de uso
+[Describe cÃ³mo ejecutar el proyecto: versiÃ³n de Unity, plataforma objetivo, controles, etc.]
 
 Ejemplo:
-- Unity versión: 2022.3.x LTS
+- Unity versiÃ³n: 2022.3.x LTS
 - Plataforma: PC
 - Controles: Teclas de flecha para moverse, espacio para saltar
 
-## 📁 Estructura del proyecto
-[Opcional: describe o muestra la estructura básica del proyecto, carpetas principales o assets relevantes.]
+## ðŸ“ Estructura del proyecto
+[Opcional: describe o muestra la estructura bÃ¡sica del proyecto, carpetas principales o assets relevantes.]
 
-## 🙌 Créditos
-Este proyecto se desarrolló como parte de la materia **Motores de Videojuegos I** en la **Universidad UCIC**, durante el ciclo [indicar ciclo, ej. Mayo-Agosto 2025].
+## ðŸ™Œ CrÃ©ditos
+Este proyecto se desarrollÃ³ como parte de la materia **Motores de Videojuegos I** en la **Universidad UCIC**, durante el ciclo [indicar ciclo, ej. Mayo-Agosto 2025].
 
 Se utilizaron las siguientes plantillas o recursos base:
-- [Nombre o descripción de la plantilla o recurso] por [autor o fuente]
+- [Nombre o descripciÃ³n de la plantilla o recurso] por [autor o fuente]
 - [Otro recurso, si aplica]
 
 ---
 
-> *Recuerda mantener tu repositorio ordenado y documentado. ¡Buen trabajo! 🚀*
+> *Recuerda mantener tu repositorio ordenado y documentado. Â¡Buen trabajo! ðŸš€*
